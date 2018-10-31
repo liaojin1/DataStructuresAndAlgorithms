@@ -7,3 +7,6 @@
  - leetcode617.合并二叉树
  - leetcode832.翻转图像
  - leetcode349.两个数组的交集
+ - leetcode350.两个数组的交集二
+ - leetCode242.有效的字母异位词
+
