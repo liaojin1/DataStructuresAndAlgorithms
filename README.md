@@ -9,4 +9,5 @@
  - leetcode349.两个数组的交集
  - leetcode350.两个数组的交集二
  - leetCode242.有效的字母异位词
-
+ - leetCode206.反转链表
+ - leetCode237.删除链表中的节点
