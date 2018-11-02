@@ -11,3 +11,4 @@
  - leetCode242.有效的字母异位词
  - leetCode206.反转链表
  - leetCode237.删除链表中的节点
+ - Binary.java
