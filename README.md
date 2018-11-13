@@ -19,3 +19,4 @@
  - leetcode234.回文链表
  - leetcode160.相交链表
  - leetcode876.链表的中间节点
+ - leetcode38.报数
