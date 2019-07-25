@@ -1,3 +1,7 @@
+删除排序链表中的重复元素
+------------
+>如果遇到重复的元素将重复的元素保留一个，删除其他元素，返回链表
+```
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -21,3 +25,4 @@ var deleteDuplicates = function (head) {
 	}
 	return res;
 }
+```
