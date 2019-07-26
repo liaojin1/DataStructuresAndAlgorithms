@@ -1,3 +1,7 @@
+相交链表
+----
+>找到两个单链表相交的起始节点
+```
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -56,3 +60,4 @@ var getIntersectionNode = function(headA, headB) {
 	}
 	return nodeA;
 }
+```
